@@ -25,9 +25,14 @@ Thumbs.db
 # VSCode
 .vscode/
 
+# Ignore raw large datasets
+# Ignore raw large datasets
+data/raw_analyst_ratings.csv
+data/*.csv
 
-data/
-*.csv
+
+
+
 
 # Jupyter
 .ipynb_checkpoints
