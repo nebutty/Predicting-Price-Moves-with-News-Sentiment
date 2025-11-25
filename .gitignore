@@ -5,46 +5,15 @@ __pycache__/
 .venv/
 .env
 
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-.venv/
-.env
-
-
 # Jupyter
 .ipynb_checkpoints
-
 
 # OS
 .DS_Store
 Thumbs.db
 
-
 # VSCode
 .vscode/
 
 # Ignore raw large datasets
-# Ignore raw large datasets
-data/raw_analyst_ratings.csv
 data/*.csv
-
-
-
-
-
-# Jupyter
-.ipynb_checkpoints
-
-
-# OS
-.DS_Store
-Thumbs.db
-
-
-# VSCode
-.vscode/
-
-
-
