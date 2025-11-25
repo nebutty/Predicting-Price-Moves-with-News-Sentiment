@@ -1,0 +1,30 @@
+# Core data libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebooks
+jupyterlab
+notebook
+ipython
+
+# Text & NLP
+nltk
+textblob
+scikit-learn
+
+# Finance data
+pandas-datareader
+yfinance
+
+# Technical indicators
+ta
+pandas_ta
+
+# Testing & Linting
+pytest
+black
+flake8
